@@ -8,6 +8,9 @@ h1 {
     font-size: 100px;
     color: #ffffff;
     text-align: center;
+    background-color: #FFC8DD;
+    margin: 50px 400px;
+    padding: 20px;
 }
 
 ul {
@@ -16,6 +19,7 @@ ul {
     font-size: 40px;
     line-height: 1.4;
     color: #ffffff;
+    margin: 50px;
 }
 
 ul a {
